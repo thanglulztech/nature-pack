@@ -1092,7 +1092,7 @@
 					{
 						"type": "redirect-to",
 						"details": {
-							"value": "https://i.ibb.co/bXmJ38N/hat-3-v6.png"
+							"value": "https://i.ibb.co/6cfR3855/hat-red-real-2-phong-vietnam-real.png"
 						}
 					}
 				]
@@ -1109,7 +1109,7 @@
 					{
 						"type": "redirect-to",
 						"details": {
-							"value": "https://i.ibb.co/mT3RRSd/hat-1-v4.png"
+							"value": "https://i.ibb.co/3ykLQ9GB/hat-bulll-real-phong.png"
 						}
 					}
 				]
@@ -1143,7 +1143,7 @@
 					{
 						"type": "redirect-to",
 						"details": {
-							"value": "https://i.ibb.co/fNZnqMw/hat-5-v3.png"
+							"value": "https://i.ibb.co/MypBfqJW/immut-goc-real-phong.png"
 						}
 					}
 				]
@@ -1262,7 +1262,7 @@
 					{
 						"type": "redirect-to",
 						"details": {
-							"value": "https://i.ibb.co/k3jzgBW/hat-11-v2.png"
+							"value": "https://i.ibb.co/j9dcxcfd/demolist-hat-real-phong.png"
 						}
 					}
 				]
